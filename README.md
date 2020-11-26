@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This project has been made for basic understanding of context api in react
+
 ## Available Scripts
 
 In the project directory, you can run:
